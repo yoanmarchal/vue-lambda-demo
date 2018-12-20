@@ -1,5 +1,7 @@
 # vue-lambda-demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yoanmarchal/vue-lambda-demo.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
